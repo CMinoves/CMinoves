@@ -1,10 +1,10 @@
 :brazil:
 
 Saudações! Eu me chamo Cristhian Sala Minoves e estudo Engenharia de Computação no CEFET-MG em Belo Horizonte! Aqui você encontrará:
-- Códigos que estou desenvolvendo dentro ou fora da faculdade;
+- Códigos que desenvolvo dentro ou fora da faculdade;
 - Códigos que eu já desenvolvi.
 
-Recentemente eu estou tentando me aprofundar em:
+Recentemente tenho me aprofundado em::
 - Python :snake:;
 - Banco de Dados 	:game_die:;
 - GML :video_game:;
@@ -21,7 +21,7 @@ Greeting! My name is Cristhian Sala Minoves and I'm majoring Computation Enginee
 - Codes that I'm currently developing for college or for personal purposes;
 - Codes that I already finished the development.
 
-Recently I'm trying to study more:
+Recently I'm study more:
 - Python :snake:;
 - Data Science 	:game_die:;
 - GML :video_game:;
