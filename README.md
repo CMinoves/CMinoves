@@ -23,6 +23,7 @@ Greeting! My name is Cristhian Sala Minoves and I'm majoring Computation Enginee
 - Codes that I already finished the development.
 
 Recently I'm study more:
+- Java :coffee:
 - Python :snake:;
 - Data Science 	:game_die:;
 - GML :video_game:;
