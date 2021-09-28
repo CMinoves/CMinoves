@@ -4,7 +4,7 @@ Saudações! Eu me chamo Cristhian Sala Minoves e estudo Engenharia de Computaç
 - Códigos que desenvolvo dentro ou fora da faculdade;
 - Códigos que eu já desenvolvi.
 
-Recentemente tenho me aprofundado em::
+Recentemente tenho me aprofundado em:
 - Java :coffee:
 - Python :snake:;
 - Banco de Dados 	:game_die:;
