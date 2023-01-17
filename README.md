@@ -6,10 +6,11 @@ Saudações! Eu me chamo Cristhian Sala Minoves e estudo Engenharia de Computaç
 
 Recentemente tenho me aprofundado em:
 - Java :coffee:
+- Javascript :coffee: :pencil2:
 - Python :snake:;
 - Banco de Dados 	:game_die:;
 - GML :video_game:;
-- Pixelart nas horas vagas :art:.
+- Pixelart nas horas vagas :art:. --> Para ver meu portifólio: https://www.artstation.com/cminoves
 
 Tenho muito interesse no desenvolvimento em POO e também na área de jogos.
 
@@ -24,10 +25,11 @@ Greeting! My name is Cristhian Sala Minoves and I'm majoring Computation Enginee
 
 Recently I'm study more:
 - Java :coffee:
+- Javascript :coffee: :pencil2:
 - Python :snake:;
 - Data Science 	:game_die:;
 - GML :video_game:;
-- Pixelart on my free time :art:.
+- Pixelart on my free time :art:. --> To see my portfolio: https://www.artstation.com/cminoves
 
 I have interest in POO and in game development.
 
