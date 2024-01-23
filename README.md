@@ -10,6 +10,8 @@ Recentemente tenho me aprofundado em:
 - Python :snake:;
 - Banco de Dados 	:game_die:;
 - GML :video_game:;
+- Construct 3 🎮;
+- Laravel e PHP 🖥️;
 - Pixelart nas horas vagas :art:. --> Para ver meu portifólio: https://www.artstation.com/cminoves
 
 Tenho muito interesse no desenvolvimento em POO e também na área de jogos.
@@ -29,6 +31,8 @@ Recently I'm study more:
 - Python :snake:;
 - Data Science 	:game_die:;
 - GML :video_game:;
+- Construct 3 🎮;
+- Laravel and PHP 🖥️;
 - Pixelart on my free time :art:. --> To see my portfolio: https://www.artstation.com/cminoves
 
 I have interest in POO and in game development.
