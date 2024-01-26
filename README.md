@@ -8,7 +8,7 @@ Recentemente tenho me aprofundado em:
 - Java :coffee:
 - Javascript :coffee: :pencil2:
 - Python :snake:;
-- Banco de Dados 	:game_dice:;
+- Banco de Dados 	🎲 ;
 - GML :video_game:;
 - Construct 3 🎮;
 - Laravel e PHP 🖥️;
@@ -29,7 +29,7 @@ Recently I'm study more:
 - Java :coffee:
 - Javascript :coffee: :pencil2:
 - Python :snake:;
-- Data Science 	:game_dice:;
+- Data Science 	🎲 ;
 - GML :video_game:;
 - Construct 3 🎮;
 - Laravel and PHP 🖥️;
